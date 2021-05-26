@@ -3,7 +3,7 @@ Automated Python Script to retrieve vaccine slots availability and get notified 
 
 ## pre requisite
 ```
-pip install requests, pygame
+pip install requests pygame
 ``` 
 <h3>set your pincode in the python list and it will work as u run the script.py</h3>
 
